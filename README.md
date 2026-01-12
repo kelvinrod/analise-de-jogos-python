@@ -1,4 +1,4 @@
-Análise de Desempenho de Jogos 🎮
+## Análise de Desempenho de Jogos 🎮
 
 Projeto de análise de dados desenvolvido com Python como parte da formação em Análise de Dados pela TripleTen.
 
